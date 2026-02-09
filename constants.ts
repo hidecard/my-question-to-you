@@ -3,23 +3,23 @@ import { Memory } from './types';
 
 export const MEMORIES: Memory[] = [
   {
-    url: './love1.jpg',
+    url: '/love1.jpg',
     caption: 'ဒီအပြုံးလေးက ကို့ရဲ့ တစ်နေ့တာလုံးကို လင်းပွားစေတယ်'
   },
   {
-    url: './love2.jpg',
+    url: '/love2.jpg',
     caption: 'ငယ်နဲ့ အတူစကားေပြာတဲ့ အချိန်တိုင်းက ကို့ရဲ့ အကြိုက်ဆုံး အမှတ်တရလေးတွေ'
   },
   {
-    url: './love3.jpg',
+    url: '/love3.jpg',
     caption: 'ငယ်က ဘယ်အချိန်ကြည့်ကြည့် ပြည့်စုံလွန်းနေရောပဲ'
   },
   {
-    url: './love4.jpg',
+    url: '/love4.jpg',
     caption: 'ငယ်က ကို့အတွက်တော့ အလှပဆုံးသော ပန်းကလေးတစ်ပွင့်ပါ'
   },
   {
-    url: './love5.jpg',
+    url: '/love5.jpg',
     caption: 'ကို့မျက်လုံးထဲမှာတော့ ငယ်က အရာရာထက် သာလွန်တယ်'
   }
 ];

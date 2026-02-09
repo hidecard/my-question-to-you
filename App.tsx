@@ -17,7 +17,7 @@ const App: React.FC = () => {
   const [noButtonPos, setNoButtonPos] = useState({ x: 0, y: 0 });
   const [isSending, setIsSending] = useState(false);
 
-  const CORRECT_PASSWORD = '1234567890987654321'; 
+  const CORRECT_PASSWORD = '1322001'; 
 
   const SERVICE_ID = 'service_u2z9opo';
   const PUBLIC_KEY = 'a63OTrZoVHh5NRE_b';
@@ -322,7 +322,7 @@ const App: React.FC = () => {
                 You just made me the happiest person ❤️
               </h1>
               <p className="text-gray-700 text-lg sm:text-xl myanmar-text leading-loose mb-10 font-medium">
-                ကျေးဇူးတင်ပါတယ် ငယ်ရဲ့ အဖြေအတွက်။ <br className="hidden sm:block"/>
+                ငယ်ရဲ့ အဖြေအတွက် ကျေးဇူးတင်ပါတယ် ။ <br className="hidden sm:block"/>
                 ငယ့်ကို အမြဲတမ်း ဂရုစိုက်ပြီး တန်ဖိုးထားသွားမယ်လို့ ကတိပေးပါတယ်။ ✨
               </p>
               <div className="flex justify-center gap-6">
