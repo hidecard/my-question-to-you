@@ -17,7 +17,7 @@ const App: React.FC = () => {
   const [noButtonPos, setNoButtonPos] = useState({ x: 0, y: 0 });
   const [isSending, setIsSending] = useState(false);
 
-  const CORRECT_PASSWORD = '1322001'; 
+  const CORRECT_PASSWORD = '13420012541999'; 
 
   const SERVICE_ID = 'service_u2z9opo';
   const PUBLIC_KEY = 'a63OTrZoVHh5NRE_b';
